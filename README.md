@@ -5,10 +5,7 @@ Dette repo er et skelet til jeres AI Chatbot-projekt.
 ## Opgave
 I skal bygge en chatbot i C# og Blazor baseret på et af de fire scenarier:
 
-- Hotel/Booking-bot
-- Support-bot
-- Uddannelses-bot
-- Butiks-bot
+- Dyrelæge Support-bot
 
 Chatbotten skal bygges trinvist gennem kurset:
 1. **Dag 2**: Lav et arkitekturdiagram og beslut jer for jeres lagdeling (UI, logik, data).
