@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Components.Web;
+﻿using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Components.Web;
 using NLU;
 namespace BlazorUI.Components
 {
     partial class ChatInput
     {
-
+        [Parameter] public EventCallback<string> OnMessageSent { get; set; }
         private string UserInput { get; set; } = "";
         private bool IsSubmitted { get; set; } = false;
         private async Task HandleKeyDown(KeyboardEventArgs e)
@@ -17,12 +18,14 @@ namespace BlazorUI.Components
             }
         }
 
-        private Task ProcessInput(string input)
+        private async Task ProcessInput(string input)
         {
-            NLUClass cawd = new NLUClass();
-            string skibidi = cawd.HandleUserInput(input);
-            Console.WriteLine($"User wrote: {skibidi}");
-            return Task.CompletedTask;
+            NLUClass nlu = new NLUClass();
+            string response = nlu.HandleUserInput(input);
+            Console.WriteLine($"User wrote: {response}");
+            await OnMessageSent.InvokeAsync(response);
+            IsSubmitted = false;
+            UserInput = "";
         }
     }
 }

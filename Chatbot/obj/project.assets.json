@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\DialogManager.csproj",
-      "projectName": "DialogManager",
-      "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\DialogManager.csproj",
+      "projectUniqueName": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj",
+      "projectName": "ChatBot",
+      "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj",
       "packagesPath": "C:\\Users\\LilleBRG\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\obj\\",
       "projectStyle": "PackageReference",

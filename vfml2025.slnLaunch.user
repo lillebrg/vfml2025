@@ -3,7 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "Chatbot\\DialogManager.csproj",
+        "Path": "Chatbot\\ChatBot.csproj",
         "Action": "Start"
       },
       {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "joQBdijYPSnl9AE9STpOOcNCAFE3wlFfd9+JvWEMSWA=",
+  "Hash": "hlCNiilLcBb/XMYFKzbl6cMQhi4FjFLX3zoJQsnSuLM=",
   "Source": "BlazorUI",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "fkeya78q8f",
-      "Integrity": "P0QSXBxSU0MtF/hN8Ll2beDA8svhC64tHbrQYsukCjQ=",
+      "Fingerprint": "srv5ndvl9p",
+      "Integrity": "GCt33EWamHMgtFRuczqWFk3EOX9/lnO8cTnktJnQexE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "tphv2psu7l",
-      "Integrity": "jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8=",
+      "Fingerprint": "zk95mha360",
+      "Integrity": "w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\BlazorUI.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "sh2v99j1h2",
-      "Integrity": "YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY=",
+      "Fingerprint": "29nh1tzu7t",
+      "Integrity": "9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\webcil\\BlazorUI.wasm"
@@ -5309,12 +5309,12 @@
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Transactions.wasm"
     },
     {
-      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-sh2v99j1h2.gz",
+      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-29nh1tzu7t.gz",
       "SourceId": "BlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorUI#[.{fingerprint=sh2v99j1h2}]!.wasm.gz",
+      "RelativePath": "_framework/BlazorUI#[.{fingerprint=29nh1tzu7t}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5323,8 +5323,8 @@
       "RelatedAsset": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f36yablzxw",
-      "Integrity": "pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw=",
+      "Fingerprint": "hksbsk9a3e",
+      "Integrity": "YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.wasm"
@@ -5708,12 +5708,12 @@
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Loader.wasm"
     },
     {
-      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-tphv2psu7l.gz",
+      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-zk95mha360.gz",
       "SourceId": "BlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/BlazorUI#[.{fingerprint=tphv2psu7l}]!.pdb.gz",
+      "RelativePath": "_framework/BlazorUI#[.{fingerprint=zk95mha360}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5722,8 +5722,8 @@
       "RelatedAsset": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "iwbbyfc5oj",
-      "Integrity": "/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM=",
+      "Fingerprint": "i0adan3usd",
+      "Integrity": "DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.pdb"
@@ -7955,7 +7955,7 @@
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Core.wasm"
     },
     {
-      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-fkeya78q8f.gz",
+      "Identity": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-srv5ndvl9p.gz",
       "SourceId": "BlazorUI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\",
@@ -7969,8 +7969,8 @@
       "RelatedAsset": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "i02sbqmcz3",
-      "Integrity": "MuzHuKXkJC9kgL0Go8LVGV7uDAxL5d7PF1e4P/vi9tQ=",
+      "Fingerprint": "rac1pp0ol3",
+      "Integrity": "fU4d6DX3ObzDmuayeHBI6M0PLWaeLfUfDxgV0Ken7dw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8765,7 +8765,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "39162"
+          "Value": "39413"
         },
         {
           "Name": "Content-Type",
@@ -8773,11 +8773,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P0QSXBxSU0MtF/hN8Ll2beDA8svhC64tHbrQYsukCjQ=\""
+          "Value": "\"GCt33EWamHMgtFRuczqWFk3EOX9/lnO8cTnktJnQexE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8787,13 +8787,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P0QSXBxSU0MtF/hN8Ll2beDA8svhC64tHbrQYsukCjQ="
+          "Value": "sha256-GCt33EWamHMgtFRuczqWFk3EOX9/lnO8cTnktJnQexE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-fkeya78q8f.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-srv5ndvl9p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8812,11 +8812,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MuzHuKXkJC9kgL0Go8LVGV7uDAxL5d7PF1e4P/vi9tQ=\""
+          "Value": "\"fU4d6DX3ObzDmuayeHBI6M0PLWaeLfUfDxgV0Ken7dw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 09:28:24 GMT"
+          "Value": "Wed, 10 Sep 2025 07:21:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8836,19 +8836,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"P0QSXBxSU0MtF/hN8Ll2beDA8svhC64tHbrQYsukCjQ=\""
+          "Value": "W/\"GCt33EWamHMgtFRuczqWFk3EOX9/lnO8cTnktJnQexE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P0QSXBxSU0MtF/hN8Ll2beDA8svhC64tHbrQYsukCjQ="
+          "Value": "sha256-GCt33EWamHMgtFRuczqWFk3EOX9/lnO8cTnktJnQexE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-fkeya78q8f.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\w1lx10sg3j-srv5ndvl9p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8865,11 +8865,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MuzHuKXkJC9kgL0Go8LVGV7uDAxL5d7PF1e4P/vi9tQ=\""
+          "Value": "\"fU4d6DX3ObzDmuayeHBI6M0PLWaeLfUfDxgV0Ken7dw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 09:28:24 GMT"
+          "Value": "Wed, 10 Sep 2025 07:21:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8887,7 +8887,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MuzHuKXkJC9kgL0Go8LVGV7uDAxL5d7PF1e4P/vi9tQ="
+          "Value": "sha256-fU4d6DX3ObzDmuayeHBI6M0PLWaeLfUfDxgV0Ken7dw="
         }
       ]
     },
@@ -9029,144 +9029,7 @@
       ]
     },
     {
-      "Route": "_framework/BlazorUI.pdb",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19500"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorUI.pdb",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-tphv2psu7l.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000074716079"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13383"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorUI.pdb.gz",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-tphv2psu7l.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13383"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/BlazorUI.sh2v99j1h2.wasm",
+      "Route": "_framework/BlazorUI.29nh1tzu7t.wasm",
       "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9176,7 +9039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "13077"
         },
         {
           "Name": "Content-Type",
@@ -9184,11 +9047,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY=\""
+          "Value": "\"9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:09 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9198,7 +9061,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sh2v99j1h2"
+          "Value": "29nh1tzu7t"
         },
         {
           "Name": "label",
@@ -9206,18 +9069,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY="
+          "Value": "sha256-9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorUI.sh2v99j1h2.wasm",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-sh2v99j1h2.gz",
+      "Route": "_framework/BlazorUI.29nh1tzu7t.wasm",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-29nh1tzu7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000186636805"
+          "Quality": "0.000162892979"
         }
       ],
       "ResponseHeaders": [
@@ -9227,15 +9090,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5357"
+          "Value": "6138"
         },
         {
           "Name": "ETag",
-          "Value": "\"pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw=\""
+          "Value": "\"YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9255,13 +9118,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY=\""
+          "Value": "W/\"9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sh2v99j1h2"
+          "Value": "29nh1tzu7t"
         },
         {
           "Name": "label",
@@ -9269,13 +9132,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY="
+          "Value": "sha256-9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorUI.sh2v99j1h2.wasm.gz",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-sh2v99j1h2.gz",
+      "Route": "_framework/BlazorUI.29nh1tzu7t.wasm.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-29nh1tzu7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9284,7 +9147,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5357"
+          "Value": "6138"
         },
         {
           "Name": "Content-Type",
@@ -9292,11 +9155,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw=\""
+          "Value": "\"YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9314,7 +9177,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sh2v99j1h2"
+          "Value": "29nh1tzu7t"
         },
         {
           "Name": "label",
@@ -9322,12 +9185,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw="
+          "Value": "sha256-YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorUI.tphv2psu7l.pdb",
+      "Route": "_framework/BlazorUI.pdb",
       "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9337,7 +9200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19500"
+          "Value": "20556"
         },
         {
           "Name": "Content-Type",
@@ -9345,40 +9208,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8=\""
+          "Value": "\"w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:09 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:14 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "tphv2psu7l"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorUI.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8="
+          "Value": "sha256-w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorUI.tphv2psu7l.pdb",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-tphv2psu7l.gz",
+      "Route": "_framework/BlazorUI.pdb",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-zk95mha360.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000074716079"
+          "Quality": "0.000071296164"
         }
       ],
       "ResponseHeaders": [
@@ -9388,19 +9243,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13383"
+          "Value": "14025"
         },
         {
           "Name": "ETag",
-          "Value": "\"/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM=\""
+          "Value": "\"DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9416,27 +9271,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8=\""
+          "Value": "W/\"w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "tphv2psu7l"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorUI.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-jw5QWIcmvniRTCjSUdM9AobnWYib+00Z5pDvISIo1B8="
+          "Value": "sha256-w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM="
         }
       ]
     },
     {
-      "Route": "_framework/BlazorUI.tphv2psu7l.pdb.gz",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-tphv2psu7l.gz",
+      "Route": "_framework/BlazorUI.pdb.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-zk95mha360.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9445,7 +9292,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13383"
+          "Value": "14025"
         },
         {
           "Name": "Content-Type",
@@ -9453,15 +9300,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM=\""
+          "Value": "\"DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -9474,16 +9321,8 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "tphv2psu7l"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/BlazorUI.pdb.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-/vBQ1c+TghGQPpvmkKZH3Io/vMDDfzqz5g0eY194hSM="
+          "Value": "sha256-DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4="
         }
       ]
     },
@@ -9498,7 +9337,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11541"
+          "Value": "13077"
         },
         {
           "Name": "Content-Type",
@@ -9506,11 +9345,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY=\""
+          "Value": "\"9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:09 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9520,18 +9359,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY="
+          "Value": "sha256-9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorUI.wasm",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-sh2v99j1h2.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-29nh1tzu7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000186636805"
+          "Quality": "0.000162892979"
         }
       ],
       "ResponseHeaders": [
@@ -9541,15 +9380,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5357"
+          "Value": "6138"
         },
         {
           "Name": "ETag",
-          "Value": "\"pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw=\""
+          "Value": "\"YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9569,19 +9408,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY=\""
+          "Value": "W/\"9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YPvhIJc/8Tx2QskdeJa/4RhLdl70I6bbZDUUTRpt0hY="
+          "Value": "sha256-9nSgWIw20FQ0fYW+mAb4lZ6SXihBnLSq2XCxdJ2YsmU="
         }
       ]
     },
     {
       "Route": "_framework/BlazorUI.wasm.gz",
-      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-sh2v99j1h2.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\8easjjdt79-29nh1tzu7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9590,7 +9429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5357"
+          "Value": "6138"
         },
         {
           "Name": "Content-Type",
@@ -9598,11 +9437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw=\""
+          "Value": "\"YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Sep 2025 10:13:10 GMT"
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9620,7 +9459,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pUYSZMUQRsihitZR3wQBJlMvgadEYqW8mwwheEqD9yw="
+          "Value": "sha256-YeFrluelZUg/ZbfR0kQC52u1oHe6UkJeaPI0cIBwRxE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorUI.zk95mha360.pdb",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\bin\\Debug\\net9.0\\wwwroot\\_framework\\BlazorUI.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 07:22:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk95mha360"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorUI.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorUI.zk95mha360.pdb",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-zk95mha360.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000071296164"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14025"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk95mha360"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorUI.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w9ljS3RiwdwQhH6e9M72JrQtTRQgAIGoL5lPl7bA6BM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/BlazorUI.zk95mha360.pdb.gz",
+      "AssetFile": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\obj\\Debug\\net9.0\\compressed\\bisrt02nuc-zk95mha360.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Sep 2025 07:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zk95mha360"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/BlazorUI.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DtZILlv5KT22aN5+lCUdF2DIBSsEBDLN01TvpyX2XP4="
         }
       ]
     },

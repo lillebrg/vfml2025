@@ -2059,12 +2059,8 @@ C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\BlazorUI.pdb
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\ref\BlazorUI.dll
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\29vhca7uze-37wsdtinrd.gz
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.tphv2psu7l.pdb
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.sh2v99j1h2.wasm
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\NLU.4hvvgvujhz.pdb
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\NLU.euwc20e83p.wasm
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.sh2v99j1h2.wasm.gz
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.tphv2psu7l.pdb.gz
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\NLU.4hvvgvujhz.pdb.gz
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\NLU.euwc20e83p.wasm.gz
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\NLU.dll
@@ -2072,6 +2068,10 @@ C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\webcil\NLU.wasm
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\z1wygnw0uw-euwc20e83p.gz
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\g7xlbnc6wr-4hvvgvujhz.gz
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\8easjjdt79-sh2v99j1h2.gz
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\bisrt02nuc-tphv2psu7l.gz
-C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\w1lx10sg3j-fkeya78q8f.gz
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.zk95mha360.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.29nh1tzu7t.wasm
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.29nh1tzu7t.wasm.gz
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\bin\Debug\net9.0\wwwroot\_framework\BlazorUI.zk95mha360.pdb.gz
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\8easjjdt79-29nh1tzu7t.gz
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\bisrt02nuc-zk95mha360.gz
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\obj\Debug\net9.0\compressed\w1lx10sg3j-srv5ndvl9p.gz

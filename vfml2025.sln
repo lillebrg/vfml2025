@@ -4,11 +4,13 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUI", "BlazorUI\BlazorUI.csproj", "{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogManager", "Chatbot\DialogManager.csproj", "{D7C0ADE5-570A-103F-04F8-2F7F08F03279}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "Chatbot\ChatBot.csproj", "{D7C0ADE5-570A-103F-04F8-2F7F08F03279}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLU", "NLU\NLU.csproj", "{73B40B70-CFD9-4B5A-A0B0-683A62330FE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLG", "NLG\NLG.csproj", "{10528609-0E8F-4687-8BE4-D2AD801D2F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogManager", "DialogManager\DialogManager.csproj", "{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{10528609-0E8F-4687-8BE4-D2AD801D2F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10528609-0E8F-4687-8BE4-D2AD801D2F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10528609-0E8F-4687-8BE4-D2AD801D2F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\Chatbot.csproj": {}
+    "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\Chatbot.csproj": {
+    "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\Chatbot.csproj",
-        "projectName": "Chatbot",
-        "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\Chatbot.csproj",
+        "projectUniqueName": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj",
+        "projectName": "ChatBot",
+        "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\ChatBot.csproj",
         "packagesPath": "C:\\Users\\LilleBRG\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\Chatbot\\obj\\",
         "projectStyle": "PackageReference",
