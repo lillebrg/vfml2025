@@ -9,6 +9,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.0" PrivateAssets="all" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NLU\NLU.csproj" />
+    <ProjectReference Include="..\DialogManager\ChatBot.csproj" />
   </ItemGroup>
 </Project>

@@ -433,9 +433,50 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
+      "ChatBot/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0",
+          "NLG": "1.0.0",
+          "NLU": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChatBot.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatBot.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "NLG/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NLG.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLG.dll": {}
+        }
+      },
       "NLU/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/NLU.dll": {}
         },
@@ -876,9 +917,50 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
+      "ChatBot/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0",
+          "NLG": "1.0.0",
+          "NLU": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChatBot.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChatBot.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "NLG/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NLG.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLG.dll": {}
+        }
+      },
       "NLU/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/NLU.dll": {}
         },
@@ -1767,6 +1849,21 @@
         "tools/net9.0/Microsoft.NET.WebAssembly.Webcil.dll"
       ]
     },
+    "ChatBot/1.0.0": {
+      "type": "project",
+      "path": "../DialogManager/ChatBot.csproj",
+      "msbuildProject": "../DialogManager/ChatBot.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "NLG/1.0.0": {
+      "type": "project",
+      "path": "../NLG/NLG.csproj",
+      "msbuildProject": "../NLG/NLG.csproj"
+    },
     "NLU/1.0.0": {
       "type": "project",
       "path": "../NLU/NLU.csproj",
@@ -1775,11 +1872,11 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "ChatBot >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.0",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0",
-      "NLU >= 1.0.0"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0"
     ]
   },
   "packageFolders": {
@@ -1815,8 +1912,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\NLU\\NLU.csproj": {
-              "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\NLU\\NLU.csproj"
+            "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\ChatBot.csproj": {
+              "projectPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\ChatBot.csproj"
             }
           }
         }

@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\NLG\NLG.csproj" />
+    <ProjectReference Include="..\NLU\NLU.csproj" />
   </ItemGroup>
 
 </Project>

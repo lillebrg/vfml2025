@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Components;
+﻿using ChatBot.Interfaces;
+using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using NLU;
 namespace BlazorUI.Components
 {
-    partial class ChatInput
+    partial class ChatInput(IDialogManager dialogManager)
     {
         [Parameter] public EventCallback<string> OnMessageSent { get; set; }
         private string UserInput { get; set; } = "";
@@ -20,10 +21,9 @@ namespace BlazorUI.Components
 
         private async Task ProcessInput(string input)
         {
-            NLUClass nlu = new NLUClass();
-            string response = nlu.HandleUserInput(input);
+            var response = dialogManager.HandleUserInput(input);
             Console.WriteLine($"User wrote: {response}");
-            await OnMessageSent.InvokeAsync(response);
+            await OnMessageSent.InvokeAsync(response.Message);
             IsSubmitted = false;
             UserInput = "";
         }

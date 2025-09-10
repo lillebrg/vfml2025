@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}|DialogManager\\DialogManager.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\dialogmanager\\dialogmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}|DialogManager\\DialogManager.csproj|solutionrelative:dialogmanager\\dialogmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\components\\chatinput.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\components\\chatinput.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\components\\chatinput.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\components\\chatinput.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\components\\chatwindow.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\components\\chatwindow.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\pages\\chat.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\pages\\chat.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\components\\chatwindow.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\components\\chatwindow.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\blazorui\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7B385DC-C282-08E7-1D0B-EBD4ABBC9788}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}|DialogManager\\ChatBot.csproj|c:\\users\\lillebrg\\source\\repos\\machine learning\\vfml2025\\dialogmanager\\repositories\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25A4C1B-EC83-41CF-9080-0F0C4478FADE}|DialogManager\\ChatBot.csproj|solutionrelative:dialogmanager\\repositories\\dialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DialogManager",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\DialogManager.csproj",
-              "RelativeDocumentMoniker": "DialogManager\\DialogManager.csproj",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\DialogManager.csproj",
-              "RelativeToolTip": "DialogManager\\DialogManager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T07:28:52.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Chat.razor",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Pages\\Chat.razor",
-              "RelativeDocumentMoniker": "BlazorUI\\Pages\\Chat.razor",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Pages\\Chat.razor",
-              "RelativeToolTip": "BlazorUI\\Pages\\Chat.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T07:20:55.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Chat.razor.cs",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Pages\\Chat.razor.cs",
-              "RelativeDocumentMoniker": "BlazorUI\\Pages\\Chat.razor.cs",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Pages\\Chat.razor.cs",
-              "RelativeToolTip": "BlazorUI\\Pages\\Chat.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorUI\\Program.cs",
+              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Program.cs",
+              "RelativeToolTip": "BlazorUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:13:31.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChatWindow.razor.cs",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatWindow.razor.cs",
-              "RelativeDocumentMoniker": "BlazorUI\\Components\\ChatWindow.razor.cs",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatWindow.razor.cs",
-              "RelativeToolTip": "BlazorUI\\Components\\ChatWindow.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T07:01:50.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatInput.razor",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatInput.razor",
-              "RelativeDocumentMoniker": "BlazorUI\\Components\\ChatInput.razor",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatInput.razor",
-              "RelativeToolTip": "BlazorUI\\Components\\ChatInput.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T07:01:38.707Z",
+              "WhenOpened": "2025-09-10T10:51:48.929Z",
               "EditorCaption": ""
             },
             {
@@ -113,22 +45,22 @@
               "RelativeDocumentMoniker": "BlazorUI\\Components\\ChatInput.razor.cs",
               "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatInput.razor.cs",
               "RelativeToolTip": "BlazorUI\\Components\\ChatInput.razor.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:10:06.171Z",
+              "WhenOpened": "2025-09-10T10:49:18.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChatWindow.razor",
-              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatWindow.razor",
-              "RelativeDocumentMoniker": "BlazorUI\\Components\\ChatWindow.razor",
-              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\BlazorUI\\Components\\ChatWindow.razor",
-              "RelativeToolTip": "BlazorUI\\Components\\ChatWindow.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T07:01:24.768Z",
+              "DocumentIndex": 2,
+              "Title": "DialogManager.cs",
+              "DocumentMoniker": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\Repositories\\DialogManager.cs",
+              "RelativeDocumentMoniker": "DialogManager\\Repositories\\DialogManager.cs",
+              "ToolTip": "C:\\Users\\LilleBRG\\source\\repos\\Machine Learning\\vfml2025\\DialogManager\\Repositories\\DialogManager.cs",
+              "RelativeToolTip": "DialogManager\\Repositories\\DialogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:37:38.287Z",
               "EditorCaption": ""
             }
           ]
