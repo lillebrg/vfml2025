@@ -12,3 +12,18 @@
 /Users/jordening/Library/Mobile Documents/com~apple~CloudDocs/Undervisning/AI chat bot/fork/Chatbot/obj/Debug/net9.0/Chatbot.pdb
 /Users/jordening/Library/Mobile Documents/com~apple~CloudDocs/Undervisning/AI chat bot/fork/Chatbot/obj/Debug/net9.0/Chatbot.genruntimeconfig.cache
 /Users/jordening/Library/Mobile Documents/com~apple~CloudDocs/Undervisning/AI chat bot/fork/Chatbot/obj/Debug/net9.0/ref/Chatbot.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\Chatbot.exe
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\Chatbot.deps.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\Chatbot.runtimeconfig.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\Chatbot.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\Chatbot.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.AssemblyInfoInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.AssemblyInfo.cs
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.sourcelink.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\refint\Chatbot.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\Chatbot.genruntimeconfig.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\ref\Chatbot.dll

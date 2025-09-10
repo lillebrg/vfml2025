@@ -1,0 +1,4 @@
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\wwwroot\css\chat.css
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\BlazorUI\wwwroot\index.html
+wwwroot\css\chat.css
+wwwroot\index.html

@@ -1,1 +1,41 @@
-/* TODO: Basic styling for chat */
+.chat-window {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.messages-container {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.input-container {
+    border-top: 1px solid #eee;
+    padding: 0.75rem 1rem;
+    background-color: #fafafa;
+}
+
+.chat-input {
+    width: 100%;
+    resize: none;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    outline: none;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    line-height: 1.5;
+    font-family: inherit;
+    background-color: #fff;
+}
+
+    .chat-input:focus {
+        border-color: #999;
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.05);
+    }

@@ -1,1 +1,7 @@
-// TODO: Implement chatbot service logic
+﻿namespace Chatbot.Services
+{
+    public class ChatService
+    {
+
+    }
+}

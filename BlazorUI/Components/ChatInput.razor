@@ -1,3 +1,7 @@
-<div class="input-row">
-    <!-- TODO: Input for user messages -->
+<div class="input-container">
+    <input class="chat-input" @bind="UserInput"
+           @bind:event="oninput"
+           @onkeydown="HandleKeyDown"
+           disabled="@IsSubmitted"
+           placeholder="Type your message..." />
 </div>

@@ -1,0 +1,12 @@
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\NLU.deps.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\NLU.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\NLU.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.AssemblyInfoInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.AssemblyInfo.cs
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.csproj.CoreCompileInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.sourcelink.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\refint\NLU.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\ref\NLU.dll

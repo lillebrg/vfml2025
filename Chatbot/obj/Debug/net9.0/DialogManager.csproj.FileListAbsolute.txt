@@ -1,0 +1,15 @@
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\DialogManager.exe
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\DialogManager.deps.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\DialogManager.runtimeconfig.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\DialogManager.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\bin\Debug\net9.0\DialogManager.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.AssemblyInfoInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.AssemblyInfo.cs
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.csproj.CoreCompileInputs.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.sourcelink.json
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\refint\DialogManager.dll
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.pdb
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\DialogManager.genruntimeconfig.cache
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\Chatbot\obj\Debug\net9.0\ref\DialogManager.dll
