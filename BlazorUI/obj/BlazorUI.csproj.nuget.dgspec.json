@@ -164,6 +164,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -230,6 +240,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -370,6 +386,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.ML.DataView": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

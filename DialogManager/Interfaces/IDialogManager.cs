@@ -4,6 +4,6 @@ namespace ChatBot.Interfaces
 {
     public interface IDialogManager
     {
-        NLGResult HandleUserInput(string input);
+        SessionState HandleUserInput(string userInput, string sessionId);
     }
 }

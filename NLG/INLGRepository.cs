@@ -4,6 +4,7 @@ namespace NLG
 {
     public interface INLGRepository
     {
-        NLGResult GenerateDefault();
+        string GenerateResponse(SessionState state);
+        string GenerateDefault();
     }
 }

@@ -1,8 +1,8 @@
 ﻿namespace Models
 {
-    public enum BotState
+    public enum BotArea
     {
-        Idle,
+        Unknown,
         FAQ,
         Emergency,
     }

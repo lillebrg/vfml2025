@@ -14,3 +14,4 @@ C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\Mo
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\Models.pdb
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.csproj.AssemblyReference.cache
 C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\obj\Debug\net8.0\NLU.csproj.Up2Date
+C:\Users\LilleBRG\source\repos\Machine Learning\vfml2025\NLU\bin\Debug\net8.0\Data\vet_intents.csv

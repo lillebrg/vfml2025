@@ -4,6 +4,6 @@ namespace NLU
 {
     public interface INLURepository
     {
-        Task<BotModel> Get(string input);
+        NLUResult Predict(string input);
     }
 }

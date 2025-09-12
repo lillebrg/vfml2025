@@ -1,4 +1,5 @@
 using BlazorUI;
+using BlazorUI.Services;
 using ChatBot.Interfaces;
 using ChatBot.Repositories;
 using Microsoft.AspNetCore.Components.Web;
@@ -14,7 +15,8 @@ builder.Services.AddScoped<IDialogManager, DialogManager>();
 builder.Services.AddScoped<INLGRepository, NLGRepository>();
 builder.Services.AddScoped<INLURepository, NLURepository>();
 builder.Services.AddScoped<IFAQRepository, FAQRepository>();
-builder.Services.AddScoped<IEmergencyRespository, EmergencyRepository>();
+builder.Services.AddScoped<ChatSession>();
+
 
 
 await builder.Build().RunAsync();
